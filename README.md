@@ -1,4 +1,3 @@
--- code for Github
 # 💫 About Me:
 Data Analyst | Zoho Analytics • SQL • Excel • Power BI • Python
 
